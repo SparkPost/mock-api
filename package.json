@@ -1,0 +1,26 @@
+{
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "name": "@sparkpost/mock-api",
+  "version": "1.0.0",
+  "description": "For mocking APIs we can't easily run locally",
+  "main": "index.js",
+  "dependencies": {
+    "cors": "^2.8.3",
+    "express": "^4.15.3",
+    "lodash": "^4.17.4",
+    "nodemon": "^1.11.0"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SparkPost/mock-api.git"
+  },
+  "author": "Jason Rhodes",
+  "license": "All rights reserved",
+  "bugs": {
+    "url": "https://github.com/SparkPost/mock-api/issues"
+  },
+  "homepage": "https://github.com/SparkPost/mock-api#readme"
+}
